@@ -11,6 +11,9 @@ Program
 - Membuat project pengelolaan video youtube
 - Membuat Project Landing Page Dibum.u
 - Membuat Project Pengelolaan Sistem Informasi Penjualan Dimbu.u
+- Membuat Project CRUD Memakai JS
+- Membuat Project CRUD Memakai Php
+- Membuat Project Olshop
 Olahraga
 - Konsisten ke gym 2x Seminggu
 - Konsisten melakukan warmup seusai bangun dan sebelum tidur
