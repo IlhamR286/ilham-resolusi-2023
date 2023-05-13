@@ -2,6 +2,7 @@ Course Yang Sedang Di Ikuti Di Tahun Ini
 {Keterangan 
   Simbol (-) = Course yang sedang Di ikuti
   Simbol (*) = Rencana course Yang Diikuti
+}
 January(√) :
   - Semester 6 Kuliah
 Februari(√):
