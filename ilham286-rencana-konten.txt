@@ -1,14 +1,15 @@
 Rencana Konten Baru
 - Game Mobile
-  MLBB
-  PUBG
-  COC
-  Wildrift
+  1. MLBB
+  2. Luna
+  3. PUBG
+  4. COC
+  5. Wildrift
   
 - Game PC
-  Roblox
-  Teraria
+  1. Roblox
+  2. Teraria
   
 - Game WEb
-  Shooter.io
-  Moomoo.io
+  1. Shooter.io
+  2. Moomoo.io
