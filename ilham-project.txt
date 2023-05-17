@@ -1,0 +1,12 @@
+File ini berisikan list project yang akan di buat:
+--------------------------------------------------
+Bahasa Pemrograman/Framework:
+1. Python
+2. Js (Js -> React Js -> Next Js)
+3. Angular
+4. Flutter
+
+Project:
+1. Project Deacourse
+2. Pembuatan Cloaning Google Search
+3. Gameplay Menggunakan Python
